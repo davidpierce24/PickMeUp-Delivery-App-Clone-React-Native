@@ -1,5 +1,3 @@
-# PickMeUp-delivery-app-clone-react-native
-
 ![IMG_1071](https://user-images.githubusercontent.com/103011750/190290572-8065bf8c-12ab-4735-ba72-6aabd890cd69.PNG)
 
 
