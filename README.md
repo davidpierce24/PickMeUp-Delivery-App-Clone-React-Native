@@ -3,7 +3,7 @@
 
 # PickMeUp - a Door Dash, Uber Eats, Deliveroo clone built in React Native
 
-This is my first try at cross-platform development. React Native has been super fun to learn, and UI's can be implemented so smoothly with Tailwind CSS. This was also my first experience with Redux, and it is a huge help with state management. 
+This is my first try at cross-platform development. React Native has been super fun to learn, and UI's can be implemented so smoothly with Tailwind CSS. This was also my first experience with Redux, and it is a huge help with state management. Thanks to Sonny Sangha for the instruction!
 
 ## Tools Used
 
